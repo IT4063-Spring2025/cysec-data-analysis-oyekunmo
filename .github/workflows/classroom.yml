@@ -1,0 +1,31 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: CySec-Lab-Test
+      id: cysec-lab-test
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: CySec-Lab-Test
+        setup-command: sudo -H pip install pytest pandas numpy scikit-learn matplotlib
+          seaborn
+        command: pytest --capture=sys
+        timeout: 10
+        max-score: 20
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        CYSEC-LAB-TEST_RESULTS: "${{steps.cysec-lab-test.outputs.result}}"
+      with:
+        runners: cysec-lab-test
