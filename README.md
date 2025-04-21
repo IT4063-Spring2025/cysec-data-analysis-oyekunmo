@@ -48,7 +48,7 @@ You'll also find some tips and links to documentations that will help you comple
 - . N/A
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[9] hours. I think I understood the main objectives of the assignment, which made it easier to go through the process of completing each task. 
 
 **If I were to do this assignment again, I would:** (repeat as needed)
 - .
