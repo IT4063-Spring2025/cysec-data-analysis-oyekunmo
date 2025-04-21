@@ -45,7 +45,7 @@ You'll also find some tips and links to documentations that will help you comple
 - . I struggled with filtering out data when it came to using the SimpleImputer function and any other functions that required numerical data. This was mainly because of my own errors in categorizing the columns by data type. I eventually figured out the issue and selected the columns necessary.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . N/A
 
 **How long did it take you to complete this assignment? and reflect on that**
 [ ] hours.
