@@ -39,7 +39,7 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to scale and split a data set, evaluate accuracy between models, how to iterate between models for comparisons, and how to train with; Logistic Regression Models, Random Forest Models, and Support Vector Machine Models.
 
 **I struggled with:** (repeat as needed)
 - .
