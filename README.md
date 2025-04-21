@@ -51,7 +51,7 @@ You'll also find some tips and links to documentations that will help you comple
 [9] hours. I think I understood the main objectives of the assignment, which made it easier to go through the process of completing each task. 
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- . Do a better job when it came to filtering data
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
 
