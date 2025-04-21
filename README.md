@@ -58,7 +58,8 @@ You'll also find some tips and links to documentations that will help you comple
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . Weekly Module
+- . Co-Pilot
   
 **I received help from the following people:** (repeat as needed)
 - .
