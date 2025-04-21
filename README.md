@@ -42,7 +42,7 @@ You'll also find some tips and links to documentations that will help you comple
 - . How to scale and split a data set, evaluate accuracy between models, how to iterate between models for comparisons, and how to train with; Logistic Regression Models, Random Forest Models, and Support Vector Machine Models.
 
 **I struggled with:** (repeat as needed)
-- .
+- . I struggled with filtering out data when it came to using the SimpleImputer function and any other functions that required numerical data. This was mainly because of my own errors in categorizing the columns by data type. I eventually figured out the issue and selected the columns necessary.
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
