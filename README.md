@@ -62,7 +62,7 @@ You'll also find some tips and links to documentations that will help you comple
 - . Co-Pilot
   
 **I received help from the following people:** (repeat as needed)
-- .
+- . Adib Zaman (instructor)
 
 ---
 ## Copyrights and License
